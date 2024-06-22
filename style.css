@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+section{
+   background-image: url(./pic/delicious-warm-black-coffee_1018053-455.jpg);
+   height: 100vh;
+   width: 100%;
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+   padding-top: 10em;
+   
+}
+.tem-conversion{
+    border-radius: 5px;
+    background-color: white;
+    max-width: 600px;
+    padding: 3em;
+    margin: 0 auto;
+    box-shadow: 0 0 5px 0 black;
+    text-align: center;
+}
+h1{
+    font-size: 2.5rem;
+    text-align: center;
+}
+#userInput{
+    padding: 1em;
+    text-align: center;
+    border: 0.5px solid rgba(121, 115, 115, 0.493);
+    outline-color: rgba(0, 153, 255, 0.295); 
+}
+
+label{
+    font-size: 2rem;
+}
+button{
+    padding: 1em 1.5em;
+    border-radius: 5px;
+    border: 0.5px solid rgba(121, 115, 115, 0.493);
+    cursor: pointer;
+    background-color: ;
+
+}
